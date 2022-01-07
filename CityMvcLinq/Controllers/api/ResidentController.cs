@@ -113,6 +113,5 @@ namespace CityMvcLinq.Controllers.api
             }
         }
 
-
     }
 }
